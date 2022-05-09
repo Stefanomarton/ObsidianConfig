@@ -1,0 +1,33 @@
+.img-grid .el-embed-image p{
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+grid-template-rows: masonry;
+align-items: stretch;
+column-gap: 1rem;;
+margin-bottom: -1.2rem;
+place-items: center
+}
+
+.img-grid .el-embed-image p br{
+display: none;
+}
+
+.img-grid img {
+max-height: 100px
+max-width: 400px
+object-fit: cover;
+}
+
+.workspace-leaf-content img:not([width]), .workspace-leaf-content audio, .workspace-leaf-content video {
+    max-width: 100%;
+    margin-left: 60px;
+    margin-top:10px;
+    margin-bottom:5px
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+    max-width: 1000 px;
+    margin-left: auto;
+    margin-right: auto;
+}
+

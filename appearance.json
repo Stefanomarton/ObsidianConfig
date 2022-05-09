@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 26,
+  "theme": "moonstone",
+  "cssTheme": "MartonTheme",
+  "enabledCssSnippets": [
+    "img-grid",
+    "justified_text"
+  ]
+}

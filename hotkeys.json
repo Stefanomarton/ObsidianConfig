@@ -1,0 +1,89 @@
+{
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-hider:toggle-hider-status": [],
+  "window-collapse:collapse-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "window-collapse:collapse-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "'"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "templater-obsidian:Template/Date&time.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-focus-mode:toggle-focus-mode": [],
+  "obsidian-focus-mode:toggle-super-focus-mode": [],
+  "editor:follow-link": [],
+  "editor:insert-link": [],
+  "nldates-obsidian:nlp-today": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "app:open-help": [],
+  "editor:open-link-in-new-leaf": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:save-file": [],
+  "editor:open-search-replace": [],
+  "workspace:undo-close-pane": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+.cm-s-obsidian, .markdown-preview-view {
+  text-align: justify;
+  font-family: inter;
+  font-weight: 500 !important;
+  font-size: 16px;
+  font-weight: normal;
+  margin-top:0.01em
+
+}
+
+/* Remove the gap between a paragraph and a list that follows it */
+div.el-p + div.el-ul > ul,
+div.el-p + div.el-ol > ol {
+    margin-top: -15px;
+}
+
+/* Changes the bullet indent to be ~2 characters instead of ~4 */
+ul, ol {
+    padding-inline-start: 20px;
+}
+
+
+/* Spreads out concurent headers (of the same size) */
+div.el-h1 + div.el-h1 > h1, 
+div.el-h2 + div.el-h2 > h2, 
+div.el-h3 + div.el-h3 > h3, 
+div.el-h4 + div.el-h4 > h4, 
+div.el-h5 + div.el-h5 > h5, 
+div.el-h6 + div.el-h6 > h6 {
+    margin-top:  25px !important;
+}
+
+/* Brings the bottom of headers closer to whatever follows them  */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom:  -15px !important;
+}
+
+/* Tables don't have a top margin by default, so add one when following a (negative margin) header */
+div.el-h1 + div.el-table > table,
+div.el-h2 + div.el-table > table,
+div.el-h3 + div.el-table > table,
+div.el-h3 + div.el-table > table,
+div.el-h4 + div.el-table > table,
+div.el-h6 + div.el-table > table {
+    margin-top: 20px;
+}
+
+img { margin-bottom: 4px
+    max-height: 200px
+}
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none;
+}
+
+
