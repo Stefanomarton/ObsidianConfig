@@ -10,5 +10,6 @@
   "attachmentFolderPath": "Immagini",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "trashOption": "local"
 }

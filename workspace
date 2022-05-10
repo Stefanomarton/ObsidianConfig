@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a817cd94ab0e598f",
+        "id": "1cfc6fdbb512687a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "University Notes/Usanovich.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -23,20 +18,6 @@
     "id": "bd509c0d0649648c",
     "type": "split",
     "children": [
-      {
-        "id": "a0dab7e550ba77a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4cdc54c0512137c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
       {
         "id": "13e596c06cbff57f",
         "type": "tabs",
@@ -68,24 +49,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5,
-    "collapsed": true
+    "width": 285
   },
   "right": {
     "id": "dacf154d40db4e77",
     "type": "split",
     "children": [
       {
-        "id": "ff2b80b65c0d473b",
+        "id": "4a18deda59d60d47",
         "type": "tabs",
         "children": [
           {
-            "id": "6a339fa7d4a5c9c0",
+            "id": "4cdc54c0512137c6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7994a83f2a163242",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Notes/Usanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,38 +83,41 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "7f5c22c5098ce8f2",
+        "id": "3283bd770636629b",
         "type": "tabs",
         "children": [
           {
-            "id": "72bb3b6243649a7c",
+            "id": "1b6d1e3e2694f3a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "NotesTODO.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 625,
     "collapsed": true
   },
-  "active": "a817cd94ab0e598f",
+  "active": "1cfc6fdbb512687a",
   "lastOpenFiles": [
-    "University Notes/Usanovich.md",
-    "000 Chimica inorganica.md",
-    "000 Home.md",
-    "University Notes/OverNight.md",
-    "University Notes/Trattamento del campione.md",
-    "000 Laboratorio di chimica analitica II.md",
-    "University Notes/Principi cromatografia.md",
-    "University Notes/Proprietà periodiche.md",
-    "Linux.md",
-    "000 Chimica analitica.md"
+    "NotesTODO.md",
+    "University Notes/Esercizi carborani.md",
+    "PDFs/Dispensa_Microscopia Ottica ed Elettronica.pdf",
+    "Immagini/Dispensa_Microscopia Ottica ed Elettronica 1.pdf",
+    "Immagini/Pasted image 20220409181150.png",
+    "Reading/A 2016 Four-Figure Table of Standardand Conventional Atomic Weights.md",
+    "Reading/Graphene—How a Laboratory Curiosity SuddenlyBecame Extremely Interesting.md",
+    "Reading/Neutron capture therapy of cancer.md",
+    "Reading/The Man Who Accidentally Killed The Most People In History.md",
+    "Template/Articlereading.md"
   ]
 }

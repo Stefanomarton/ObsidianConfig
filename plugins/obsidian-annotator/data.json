@@ -1,0 +1,16 @@
+{
+  "deafultDarkMode": false,
+  "darkReaderSettings": {
+    "brightness": 150,
+    "contrast": 85,
+    "sepia": 0
+  },
+  "debugLogging": true,
+  "customDefaultPath": "/home/stefanomarton/GoogleDrive/Università/Obsidian/PDFs/",
+  "annotationMarkdownSettings": {
+    "annotationModeByDefault": true,
+    "includePrefix": true,
+    "highlightHighlightedText": true,
+    "includePostfix": true
+  }
+}

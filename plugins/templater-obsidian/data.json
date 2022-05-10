@@ -16,10 +16,10 @@
   "folder_templates": [
     {
       "folder": "Reading",
-      "template": "Template/Video template.md"
+      "template": "Template/Articlereading.md"
     }
   ],
-  "syntax_highlighting": false,
+  "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
     "Template/Date&time.md"
   ],
