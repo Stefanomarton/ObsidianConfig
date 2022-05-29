@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cfc6fdbb512687a",
+        "id": "e89d14a8faa9284d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Teorie acido-base.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -49,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 279,
+    "collapsed": true
   },
   "right": {
     "id": "dacf154d40db4e77",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teorie acido-base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3283bd770636629b",
@@ -94,30 +100,28 @@
             "id": "1b6d1e3e2694f3a3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "NotesTODO.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 625,
+    "width": 583,
     "collapsed": true
   },
-  "active": "1cfc6fdbb512687a",
+  "active": "e89d14a8faa9284d",
   "lastOpenFiles": [
-    "NotesTODO.md",
-    "University Notes/Esercizi carborani.md",
-    "PDFs/Dispensa_Microscopia Ottica ed Elettronica.pdf",
-    "Immagini/Dispensa_Microscopia Ottica ed Elettronica 1.pdf",
-    "Immagini/Pasted image 20220409181150.png",
-    "Reading/A 2016 Four-Figure Table of Standardand Conventional Atomic Weights.md",
-    "Reading/Graphene—How a Laboratory Curiosity SuddenlyBecame Extremely Interesting.md",
-    "Reading/Neutron capture therapy of cancer.md",
-    "Reading/The Man Who Accidentally Killed The Most People In History.md",
-    "Template/Articlereading.md"
+    "Teorie acido-base.md",
+    "Gruppo 18.md",
+    "000 Chimica inorganica.md",
+    "000 Home.md",
+    "Gruppo 17.md",
+    "000 Linux.md",
+    "University Notes/Diagrammi di Latimer.md",
+    "Da guardare.md",
+    "Spettri NMR.md",
+    "Silicio.md"
   ]
 }

@@ -2,11 +2,9 @@
   "quick-latex",
   "theme-picker",
   "obsidian-minimal-settings",
-  "obsidian-focus-mode",
   "window-collapse",
   "obsidian-contextual-typography",
   "oz-clear-unused-images",
-  "obsidian-latex-environments",
   "obsidian-admonition",
   "obsidian-hider",
   "obsidian-mind-map",
@@ -19,5 +17,8 @@
   "templater-obsidian",
   "nldates-obsidian",
   "obsidian-kanban",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-dynamic-toc",
+  "obsidian-completr",
+  "leader-hotkeys-obsidian"
 ]

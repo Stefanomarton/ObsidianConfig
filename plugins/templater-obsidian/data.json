@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -19,10 +19,8 @@
       "template": "Template/Articlereading.md"
     }
   ],
-  "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [
-    "Template/Date&time.md"
-  ],
+  "syntax_highlighting": false,
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ]

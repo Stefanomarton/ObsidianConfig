@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "foldHeading": false,
   "foldIndent": false,
   "showLineNumber": true,
@@ -11,5 +11,6 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "useTab": false
 }

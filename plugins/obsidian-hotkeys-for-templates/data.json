@@ -1,6 +1,10 @@
 {
-  "files": [],
-  "templaterFiles": [],
+  "files": [
+    "Articlereading.md"
+  ],
+  "templaterFiles": [
+    "ChimAnal.md"
+  ],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": false,
   "useNewFileTemplateOnFileCreation": false

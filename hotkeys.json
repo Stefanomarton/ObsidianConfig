@@ -26,14 +26,7 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "templater-obsidian:Template/Date&time.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
+  "templater-obsidian:Template/Date&time.md": [],
   "file-explorer:new-file": [
     {
       "modifiers": [
@@ -85,5 +78,49 @@
       ],
       "key": "B"
     }
-  ]
+  ],
+  "app:go-back": [],
+  "templater-obsidian:Template/ChimAnal.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "app:go-forward": [],
+  "obsidian-smarter-md-hotkeys:smarter-math": [],
+  "obsidian-latex-environments:insert-latex-env": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "leader-hotkeys-obsidian:register-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-bold": []
 }
