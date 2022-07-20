@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e89d14a8faa9284d",
+        "id": "e212b22d51099445",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teorie acido-base.md",
-            "mode": "source",
+            "file": "000 Home.md",
+            "mode": "preview",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -24,8 +24,9 @@
     "type": "split",
     "children": [
       {
-        "id": "13e596c06cbff57f",
+        "id": "341e8c752a50beed",
         "type": "tabs",
+        "dimension": 82.19056099732859,
         "children": [
           {
             "id": "cd113766c0e68e3e",
@@ -34,7 +35,14 @@
               "type": "file-explorer",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f0a1a3d5497e13c5",
+        "type": "tabs",
+        "dimension": 17.809439002671414,
+        "children": [
           {
             "id": "ecc522699c50d818",
             "type": "leaf",
@@ -54,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279,
+    "width": 348,
     "collapsed": true
   },
   "right": {
@@ -72,56 +80,25 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "7994a83f2a163242",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Teorie acido-base.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3283bd770636629b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b6d1e3e2694f3a3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 583,
+    "width": 516.8333129882812,
     "collapsed": true
   },
-  "active": "e89d14a8faa9284d",
+  "active": "e212b22d51099445",
   "lastOpenFiles": [
-    "Teorie acido-base.md",
-    "Gruppo 18.md",
-    "000 Chimica inorganica.md",
+    "University Notes/Spettroscopia atomica.md",
+    "000 Chimica analitica.md",
     "000 Home.md",
-    "Gruppo 17.md",
-    "000 Linux.md",
-    "University Notes/Diagrammi di Latimer.md",
-    "Da guardare.md",
-    "Spettri NMR.md",
-    "Silicio.md"
+    "University Notes/Nanoparticelle.md",
+    "University Notes/Confronto IR vs. Raman.md",
+    "University Notes/Spettroscopia Raman.md",
+    "University Notes/PPTT - Plasmon PhotoThermal Therapy.md",
+    "University Notes/Applicazioni delle AuNP.md",
+    "University Notes/AuNP.md",
+    "University Notes/AuNP sferiche.md"
   ]
 }

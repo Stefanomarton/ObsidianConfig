@@ -1,5 +1,5 @@
 {
-  "deleteOption": "permanent",
+  "deleteOption": ".trash",
   "logsModal": true,
   "excludedFolders": "",
   "ribbonIcon": true,

@@ -4,9 +4,9 @@
   font-weight: 500 !important;
   font-size: 16px;
   font-weight: normal;
-  margin-top:0.01em
 
 }
+
 
 /* Remove the gap between a paragraph and a list that follows it */
 div.el-p + div.el-ul > ul,
@@ -45,10 +45,6 @@ div.el-h6 + div.el-table > table {
     margin-top: 20px;
 }
 
-img { margin-bottom: 4px
-    max-height: 200px
-}
-
 img[alt$=">"] {
   float: right;
 }
@@ -63,6 +59,5 @@ img[alt$="><"] {
   height: auto;
   margin: auto;
   float: none;
-}
-
+} 
 

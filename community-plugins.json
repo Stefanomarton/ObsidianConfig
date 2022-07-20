@@ -1,7 +1,5 @@
 [
-  "quick-latex",
   "theme-picker",
-  "obsidian-minimal-settings",
   "window-collapse",
   "obsidian-contextual-typography",
   "oz-clear-unused-images",
@@ -12,13 +10,15 @@
   "pdf-to-markdown-plugin",
   "obsidian-vimrc-support",
   "dataview",
-  "obsidian-hotkeys-for-templates",
-  "obsidian-latex-suite",
   "templater-obsidian",
   "nldates-obsidian",
-  "obsidian-kanban",
   "obsidian-annotator",
-  "obsidian-dynamic-toc",
   "obsidian-completr",
-  "leader-hotkeys-obsidian"
+  "table-editor-obsidian",
+  "obsidian-relative-line-numbers",
+  "obsidian-latex",
+  "obsidian-plugin-toc",
+  "obsidian-style-settings",
+  "obsidian-dynamic-toc",
+  "obsidian-latex-suite"
 ]

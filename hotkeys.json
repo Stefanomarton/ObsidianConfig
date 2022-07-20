@@ -79,7 +79,14 @@
       "key": "B"
     }
   ],
-  "app:go-back": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
   "templater-obsidian:Template/ChimAnal.md": [
     {
       "modifiers": [
@@ -104,7 +111,14 @@
       "key": "M"
     }
   ],
-  "app:go-forward": [],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
   "obsidian-smarter-md-hotkeys:smarter-math": [],
   "obsidian-latex-environments:insert-latex-env": [
     {
@@ -122,5 +136,23 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": []
+  "editor:toggle-bold": [],
+  "obsidian-completr:completr-insert-selected-suggestion": [],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ]
 }
