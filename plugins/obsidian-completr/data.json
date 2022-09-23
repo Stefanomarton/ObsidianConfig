@@ -4,7 +4,8 @@
   "minWordLength": 2,
   "minWordTriggerLength": 3,
   "wordInsertionMode": "Ignore-Case & Replace",
-  "latexProviderEnabled": false,
+  "ignoreDiacriticsWhenFiltering": false,
+  "latexProviderEnabled": true,
   "latexTriggerInCodeBlocks": false,
   "latexMinWordTriggerLength": 2,
   "latexIgnoreCase": false,
@@ -12,5 +13,6 @@
   "fileScannerScanCurrent": false,
   "wordListProviderEnabled": false,
   "frontMatterProviderEnabled": true,
-  "frontMatterTagAppendSuffix": true
+  "frontMatterTagAppendSuffix": true,
+  "frontMatterIgnoreCase": true
 }

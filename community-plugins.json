@@ -7,18 +7,19 @@
   "obsidian-hider",
   "obsidian-mind-map",
   "homepage",
-  "pdf-to-markdown-plugin",
   "obsidian-vimrc-support",
   "dataview",
   "templater-obsidian",
   "nldates-obsidian",
   "obsidian-annotator",
   "obsidian-completr",
-  "table-editor-obsidian",
   "obsidian-relative-line-numbers",
   "obsidian-latex",
   "obsidian-plugin-toc",
-  "obsidian-style-settings",
   "obsidian-dynamic-toc",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-auto-hide",
+  "note-refactor-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

@@ -8,14 +8,7 @@
     }
   ],
   "obsidian-hider:toggle-hider-status": [],
-  "window-collapse:collapse-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
+  "window-collapse:collapse-left-sidebar": [],
   "window-collapse:collapse-right-sidebar": [
     {
       "modifiers": [
@@ -49,14 +42,6 @@
   "obsidian-focus-mode:toggle-super-focus-mode": [],
   "editor:follow-link": [],
   "editor:insert-link": [],
-  "nldates-obsidian:nlp-today": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "app:open-help": [],
   "editor:open-link-in-new-leaf": [],
   "switcher:open": [
@@ -77,14 +62,6 @@
         "Shift"
       ],
       "key": "B"
-    }
-  ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
     }
   ],
   "templater-obsidian:Template/ChimAnal.md": [
@@ -137,7 +114,6 @@
     }
   ],
   "editor:toggle-bold": [],
-  "obsidian-completr:completr-insert-selected-suggestion": [],
   "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
   "obsidian-mind-map:app:markmap-preview": [
     {
@@ -147,12 +123,75 @@
       "key": "J"
     }
   ],
-  "open-with-default-app:open": [
+  "obsidian-completr:completr-bypass-enter-key": [],
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "U"
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "editor:open-search": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:extract-selection-autogenerate-name": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
     }
   ]
 }

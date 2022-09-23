@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e212b22d51099445",
+        "id": "229cf10e176ebebb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "000 Chimica analitica.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "341e8c752a50beed",
         "type": "tabs",
-        "dimension": 82.19056099732859,
+        "dimension": 71.00073046018991,
         "children": [
           {
             "id": "cd113766c0e68e3e",
@@ -41,7 +41,7 @@
       {
         "id": "f0a1a3d5497e13c5",
         "type": "tabs",
-        "dimension": 17.809439002671414,
+        "dimension": 28.99926953981008,
         "children": [
           {
             "id": "ecc522699c50d818",
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "dacf154d40db4e77",
@@ -88,17 +87,17 @@
     "width": 516.8333129882812,
     "collapsed": true
   },
-  "active": "e212b22d51099445",
+  "active": "229cf10e176ebebb",
   "lastOpenFiles": [
-    "University Notes/Spettroscopia atomica.md",
-    "000 Chimica analitica.md",
+    "000 Reading&Watching.md",
     "000 Home.md",
-    "University Notes/Nanoparticelle.md",
-    "University Notes/Confronto IR vs. Raman.md",
-    "University Notes/Spettroscopia Raman.md",
-    "University Notes/PPTT - Plasmon PhotoThermal Therapy.md",
-    "University Notes/Applicazioni delle AuNP.md",
-    "University Notes/AuNP.md",
-    "University Notes/AuNP sferiche.md"
+    "University Notes/Termodinamica.md",
+    "000 ChimicaFisica.md",
+    "University Notes/Potenziale chimico.md",
+    "University Notes/Miscele invarianti.md",
+    "000 Inorganica.md",
+    "000 Linux.md",
+    "Reading/The Man Who Accidentally Killed The Most People In History.md",
+    "Reading/The Harder You Try, The Worse It Gets _ Law of Reversed Effort.md"
   ]
 }

@@ -1,9 +1,14 @@
 {
   "baseFontSize": 16,
   "theme": "moonstone",
-  "cssTheme": "MartonTheme",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "justified_text",
     "img-grid"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "textFontFamily": "Calibri",
+  "interfaceFontFamily": "Calibri",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

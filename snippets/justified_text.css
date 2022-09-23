@@ -7,7 +7,6 @@
 
 }
 
-
 /* Remove the gap between a paragraph and a list that follows it */
 div.el-p + div.el-ul > ul,
 div.el-p + div.el-ol > ol {
@@ -45,19 +44,10 @@ div.el-h6 + div.el-table > table {
     margin-top: 20px;
 }
 
-img[alt$=">"] {
-  float: right;
-}
 
-img[alt$="<"] {
-  float: left;
+/**/ Set the line leght to an human readble lenght
+.markdown-source-view, .markdown-preview-view {
+max-width: 1000px;
+margin: auto;
 }
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none;
-} 
 
